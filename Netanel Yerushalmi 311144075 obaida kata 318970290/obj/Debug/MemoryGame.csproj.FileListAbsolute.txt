@@ -1,7 +1,0 @@
-C:\Users\obaidakata\Source\Repos\obaidakata\memory-game\Netanel Yerushalmi 311144075 obaida kata 318970290\obj\Debug\MemoryGame.csprojAssemblyReference.cache
-C:\Users\obaidakata\Source\Repos\obaidakata\memory-game\Netanel Yerushalmi 311144075 obaida kata 318970290\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
-C:\Users\obaidakata\Source\Repos\obaidakata\memory-game\Netanel Yerushalmi 311144075 obaida kata 318970290\bin\Debug\Netanel Yerushalmi 311144075 obaida kata 318970290.exe.config
-C:\Users\obaidakata\Source\Repos\obaidakata\memory-game\Netanel Yerushalmi 311144075 obaida kata 318970290\bin\Debug\Netanel Yerushalmi 311144075 obaida kata 318970290.exe
-C:\Users\obaidakata\Source\Repos\obaidakata\memory-game\Netanel Yerushalmi 311144075 obaida kata 318970290\bin\Debug\Netanel Yerushalmi 311144075 obaida kata 318970290.pdb
-C:\Users\obaidakata\Source\Repos\obaidakata\memory-game\Netanel Yerushalmi 311144075 obaida kata 318970290\obj\Debug\Netanel Yerushalmi 311144075 obaida kata 318970290.exe
-C:\Users\obaidakata\Source\Repos\obaidakata\memory-game\Netanel Yerushalmi 311144075 obaida kata 318970290\obj\Debug\Netanel Yerushalmi 311144075 obaida kata 318970290.pdb
