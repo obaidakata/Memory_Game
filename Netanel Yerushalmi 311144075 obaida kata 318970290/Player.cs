@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Netanel_Yerushalmi_311144075_obaida_kata_318970290
+namespace MemoryGame
 {
     public enum ePlayerType
     {

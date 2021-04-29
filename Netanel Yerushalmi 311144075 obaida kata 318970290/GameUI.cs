@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Text;
 using System.Threading;
-using Ex02.ConsoleUtils;
 
-namespace Netanel_Yerushalmi_311144075_obaida_kata_318970290
+namespace MemoryGame
 {
     public class GameUI
     {   
@@ -208,7 +207,7 @@ namespace Netanel_Yerushalmi_311144075_obaida_kata_318970290
 
         private void printBoard()
         {
-            Screen.Clear();
+            Console.Clear();
             Console.WriteLine("\t MEMORY GAME");
             Console.WriteLine(m_Upperindices);
             Console.WriteLine(m_Separator);
@@ -349,7 +348,7 @@ namespace Netanel_Yerushalmi_311144075_obaida_kata_318970290
 
         public bool AskPlayerForNewGame(string i_WinnerName, int i_WinnerScore)
         {
-            Screen.Clear();
+            Console.Clear();
             Console.WriteLine("\t\t GAME OVER");
             Console.WriteLine("The winner is {0}, with score {1}. CONGRATIOLASTIONS!", i_WinnerName, i_WinnerScore);
             Console.WriteLine("Do you want to start a new game?");
